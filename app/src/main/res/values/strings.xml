@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="title_activity_main">ShopWithAR</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="home_product_content_description_1">Portland Furniture</string>
+    <string name="product_1_details">   Premium upholstery
+                                        Curvature-true carbon fiber shell
+                                        High density CA-117 cushioning
+                                        Seat Height: 18"</string>
+
+    <string name="home_product_catalog_description">product_Image</string>
+    <string name="facebook_app_id">183131709127330</string>
+    <string name="fb_login_protocol_scheme">fb183131709127330</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

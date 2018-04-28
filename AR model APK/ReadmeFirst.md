@@ -4,7 +4,7 @@ Before executing the app you need to install the 3D models apk files.
 
 2. Once all the models installed now install the shopwithAR app.
 
-> For further instructions refer ReadmeFile_AR.
+> For further instructions refer README.md.
 
 > Note: You can open the 3D models directly to view them in the users environment.
 

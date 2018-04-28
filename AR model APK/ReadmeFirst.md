@@ -12,3 +12,5 @@ Before executing the app you need to install the 3D models apk files.
 Goto the below link to download 3D model APK files
 
 https://www.dropbox.com/sh/l4bmq6bi115qjre/AAAw6irDprENRxvpLe_FFYdWa?dl=0
+
+> The link also has ShopWithAR.apk file which will install main application which demonstrates the idea of AR in E-commerce application.

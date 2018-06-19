@@ -42,5 +42,5 @@ environment using AR technology.
 # Screenshots
 
 Login Activity:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/s0ulraz3r/Shop_with_AR/tree/master/screenshots/login.jpg "Login Activity")
 

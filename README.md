@@ -42,5 +42,5 @@ environment using AR technology.
 # Screenshots
 
 Login Activity:
-![alt text](https://github.com/s0ulraz3r/Shop_with_AR/tree/master/screenshots/login.png "Login Activity")
+![login](https://user-images.githubusercontent.com/24978864/41622619-03dbceb6-73c5-11e8-84ef-c9eb0bfc02e4.png)
 

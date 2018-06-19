@@ -40,7 +40,5 @@ environment using AR technology.
 * The application **No more supports the facebook login** Please try to sigup and then log-in to the aplication.
 
 # Screenshots
-
-Login Activity:
-![login](https://user-images.githubusercontent.com/24978864/41622619-03dbceb6-73c5-11e8-84ef-c9eb0bfc02e4.png)
+> You can find the screenshots in the screenshots folder
 

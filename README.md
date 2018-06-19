@@ -39,6 +39,8 @@ environment using AR technology.
 
 * The application **No more supports the facebook login** Please try to sigup and then log-in to the aplication.
 
-> **Screenshots**
+# Screenshots
 
+Login Activity:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 

@@ -34,4 +34,4 @@ environment using AR technology.
 * Operating System : Windows & Android
 * API Level : API 16 or above
 
-## Note: For installation procedure refer the Readme file inside the ARModels folder.
+## Note: For installation procedure refer the Readme file inside the ARModelsAPK folder.

@@ -34,4 +34,8 @@ environment using AR technology.
 * Operating System : Windows & Android
 * API Level : API 16 or above
 
-## Note: For installation procedure refer the Readme file inside the ARModelsAPK folder.
+## Note: 
+* For installation procedure refer the Readme file inside the ARModelsAPK folder.
+
+* The application **No more supports the facebook login** Please try to sigup and then log-in to the aplication.
+

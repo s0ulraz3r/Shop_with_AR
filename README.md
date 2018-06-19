@@ -39,3 +39,6 @@ environment using AR technology.
 
 * The application **No more supports the facebook login** Please try to sigup and then log-in to the aplication.
 
+> **Screenshots**
+
+
